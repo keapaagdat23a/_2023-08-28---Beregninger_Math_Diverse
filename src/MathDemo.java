@@ -16,5 +16,6 @@ public class MathDemo {
     Math.sqrt();
     Math.random();
     Math.PI;
+
   }
 }
